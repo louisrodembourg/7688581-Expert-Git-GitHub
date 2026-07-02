@@ -32,7 +32,7 @@ A définir
 A définir : expliquer comment executer les tests
 ```
 
-
+bloblo
 ## Deploiement
 
 Voici les étapes à suivre pour déployer en production :
